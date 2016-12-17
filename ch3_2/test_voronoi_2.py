@@ -10,7 +10,7 @@ import numpy as np
 np.random.seed(0)  # 再現性のために乱数にシード（種）を与える。
 points = np.random.rand(30, 2)
 points2 = np.random.rand(30, 3)
-print(points2)
+print(points2_3)
 
 from scipy.spatial import Voronoi, voronoi_plot_2d
 try:
