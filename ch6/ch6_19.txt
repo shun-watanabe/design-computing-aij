@@ -1,0 +1,4 @@
+>>> list(DG.edges(data='type'))  # リンクに付けられているタイプを表示する
+
+[('villa_savoye', 'house', {'type': 'is_a'}), ('roof', 'rain_cover', {'type': 'is_a'}), ('archi', 'roof', {'type': 'has_a'}),
+ ('archi', 'artifact', {'type': 'is_a'}), ('house', 'archi', {'type': 'is_a'}), ('farnsworth', 'house', {'type': 'is_a'})]

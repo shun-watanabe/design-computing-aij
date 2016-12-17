@@ -1,0 +1,5 @@
+##最初に例えばこんな作業が必要
+
+>>> import os
+>>> os.chdir('/Users/kei/Dropbox/DB23_bitbucket/C007_designcomputingbook/ch6/aima-python')
+>>> import logic

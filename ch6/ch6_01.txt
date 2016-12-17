@@ -1,0 +1,2 @@
+>>> from logic import *      # logic に関するモジュールのインポート
+>>> kb0 = PropKB()           # 命題論理による知識ベース kb0 を生成する

@@ -1,0 +1,1 @@
+>>> import math as m>>> m.cos(0)1.0
