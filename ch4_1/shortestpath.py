@@ -9,6 +9,7 @@ for e in edge_list:
     dij[e[0]][e[1]] = e[2]
 
 
+# main function
 def dijkstra(origin, dest):
     v = [float('inf') for i in range(N)]
     M = list(range(N))
